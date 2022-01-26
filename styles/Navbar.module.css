@@ -1,0 +1,21 @@
+.navWrapper {
+  position: sticky;
+  top: 0;
+  padding: 0.7rem 0;
+  background-color: #282c35;
+  z-index: 9999999999999;
+  cursor: pointer;
+}
+
+.title {
+  color: #fff;
+  font-weight: 500;
+}
+
+.navContainer {
+  width: 1170px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}

@@ -1,0 +1,14 @@
+.post {
+  background-color: #282c35;
+  color: #fff;
+}
+
+.postTitle {
+  margin-top: 0;
+}
+
+.card {
+  width: 65%;
+  margin: 0 auto;
+  padding-top: 35px;
+}

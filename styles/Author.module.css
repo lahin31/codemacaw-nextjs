@@ -1,0 +1,14 @@
+.authorWrapper {
+  text-align: center;
+}
+
+.authorTitle {
+  color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.authorEmail {
+  color: #fff;
+}
